@@ -16,7 +16,7 @@ A machine learning web application to identify fraudulent credit card transactio
 - Streamlit
 
 ## About Repository 
-“Model was trained using train_model.py and saved as fraud_model.pkl. The app uses the saved model directly for predictions.”
+“Model was trained using **train_model.py** and saved as **fraud_model.pkl**. The app uses the saved model directly for predictions.”
 
 ## 🚀 Live Demo
 👉 [Click here to view the deployed app](#) *(replace this with your Streamlit link)*
