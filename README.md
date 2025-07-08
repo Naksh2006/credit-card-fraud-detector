@@ -29,7 +29,7 @@ Due to GitHub’s 100MB file size limit, it is not included in this repo.
 
 ## 📂 How to Run Locally
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detector
+git clone https://github.com/Naksh2006/credit-card-fraud-detector
 cd credit-card-fraud-detector
 pip install -r requirements.txt
 streamlit run app.py
