@@ -25,7 +25,7 @@ Due to GitHub’s 100MB file size limit, it is not included in this repo.
 “Model was trained using **train_model.py** and saved as **fraud_model.pkl**. The app uses the saved model directly for predictions.”
 
 ## 🚀 Live Demo
-👉 [https://credit-card-fraud-detector-yqjhbwzzgvzmzth7hr3ati.streamlit.app/](#)
+👉 [Click here to view the deployed app](https://credit-card-fraud-detector-yqjhbwzzgvzmzth7hr3ati.streamlit.app)
 
 ## 📂 How to Run Locally
 ```bash
